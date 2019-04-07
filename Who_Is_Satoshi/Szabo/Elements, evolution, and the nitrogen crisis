@@ -1,0 +1,61 @@
+Elements, evolution, and the nitrogen crisis
+The oxygen crisis in the history of life is well known. When photosynthesis arose, cyanobacteria and later plants started dumping large amounts of oxygen into earth’s atmosphere. At first this oxygen, dissolved in the oceans, combined with metals in the oceans and “rusted out.” Eventually, however, the free metals in the oceans were largely depleted and oxygen levels increased in the atmosphere. At first this proved very poisonous, but eventually life not only adapted but took advantage of the oxygen, with some organisms evolving new high-energy respiration pathways that reacted oxygen with carbohydrates from eaten plants. Respiration fueled the Cambrian explosion of sophisticated lifeforms which in turn led to us.
+
+Much less well known, but of similar importance, was the much earlier nitrogen crisis. This was not an overabundance of nitrogen, but the depletion of nitrogen in the readily usable forms that early life had evolved to consume. One might think that life would evolve to reflect at least roughly the same distribution of elements as are available in its environment. Let’s see if this true relative to abundance in our planet’s present oceans:
+
+Elemental abundance in bacteria vs. in seawater (ref):
+
+
+This is misleading for the metals before the oxygen crisis (i.e. for most of the history of life), when they were far more abundant in the oceans than the present levels shown. But for elements that did not “rust out” of oxygenated seawater, such as oxygen, hydrogen, carbon, nitrogen, phosphorous, and potassium, the above graph is illuminating.
+
+There is a great deal of correlation here to be sure, but there are also outliers, elements that life must concentrate by several orders of magnitude: particularly carbon, nitrogen, and phosphorous, and to a lesser extent potassium. A reasonable guess is that this reflects contingency: life originated in a certain unusual environment, an environment disproportionately rich in certain chemicals, and its core functions cannot evolve to be based on any other molecules. Every known living thing requires, in its core functions, nucleic acids (which make up RNA and DNA), amino acids (which make up proteins, including the crucial proteins that catalyze chemical reactions called enzymes), and the “energy currency” though which all metabolisms consume and produce energy, the adenosine phosphates. Let’s briefly scan some core biological molecules to see how elements are distributed in them:
+
+
+
+
+Adenosine phosphates:
+
+
+Nucleic acid:
+
+
+
+Amino acids:
+
+
+
+Lots of hydrogen and oxygen in these molecules, to be sure, but those are the elements in water. So short of a drought or desert, organisms generally have plenty of readily accessible hydrogen and oxygen. Carbon, nitrogen, phosphorous – those are the elements most used by the core molecules of life out of proportion to their existence in the environment.
+
+Carbon, as carbon dioxide, is abundant in the atmosphere (and earlier in earth’s history was far more abundant still). Through the process of photosynthesis, the two double bonds in carbon dioxide can be readily cleaved in order to form other bonds with the carbon in biological molecules. Indeed, instead of storing energy directly as ATP, life can and does take advantage of the relative accessibility of carbon, hydrogen, and oxygen to store energy as carbohydrates and fats, and then through respiration convert them to ATP only when needed.
+
+Nitrogen is also abundant in earth’s atmosphere, but in the form of dinitrogen – two nitrogens superglued together with an ultra-strong triple bond. To form nucleic acids, amino acids, and ATP, something must crack apart the nitrogen. Phosphorous, to the extent it is available in the natural environment, comes in the readily incorporated form of phosphates. The trouble is, phosphorous in any form is just plain uncommon. Nevertheless, all life still relies on it at the center of the genetic code (DNA, RNA) and every metabolism (ATP).
+
+Generally speaking, the result of the chemical contingencies of known life – which for its core functions uses molecules rich in hard-to-obtain nitrogen and phosphorous -- is that in known natural environments ecosystems are either nitrogen-limited or phosphorous-limited. In other worse, the biomass of the ecosystem is usually limited by the amount of nitrogen or phosphorous available. Liebig’s principle states that in any given environment, there is generally one nutrient that limits the growth of an organism or ecosystem. In earth environments that nutrient is usually nitrogen (as ammonia or nitrate) or phosphorous (as phosphate).
+
+The eukaryotes (basically, complicated multi-celled life including all plants, animals and fungi) seem to lack the ability to evolve metabolisms that go beyond a certain point. Instead it’s the simpler prokaryotes -- archae and bacteria -- that have a far wider range of energy chemistry: a dizzying variety of chemosynthetic and photosynthetic metabolisms and ecosystems. 
+
+For certain crucial chemicals, the eukaryotes rely on archae and bacteria in their ecosystem. Exhibit A is nitrogen fixation. Life doubtless originated in an environment rich in ammonia and/or nitrates, molecules with only single nitrogens and thus no need to split the superglued dinitrogen bond. But these early organisms would have soon depleted the levels of nitrates and ammonia in the local environment to very low levels. Call it the nitrogen crisis.
+
+Dinitrogen, N2, is the most abundant molecule in our atmosphere. But few things are powerful or precise enough to crack dinitrogen. Lightning can do it, converting dinitrogen and dioxygen in the earth’s atmosphere into nitrates. Lightning thus can, albeit very slowly, put usable nitrates back into sea and soil where they have been depleted by life. Trouble is (a) the resulting equilibrium level is far below the concentrations of nitrogen in organisms, and far below levels for optimum growth, and (b) the process requires an atmosphere rich in oxygen, which the earth until less than a billion years ago did not possess. (Alternatively, lightning might have made significant nitrates from reacting carbon dioxide with nitrogen, a possibility explored here. However, early life probably evolved in water so hot that it destroyed these nitrates).
+
+Prokaryotes came to the rescue – probably very early in the history of life, when local nitrates and ammonia had been exhausted – by evolving perhaps the most important enzyme in biology, nitrogenase, “the nitrogen-splitting anvil.” Nitrogenase’s metal-sulfur core makes it precise enough a catalyst to crack the triple bond of dinitrogen. 
+
+Nitrogenase:
+The general reaction fixing dinitrogen to ammonia, whether with nitrogenase or artificially, is as follows:
+
+N2 + 6 H + energy → 2 NH3
+
+The dinitrogen is split and combined with hydrogen to form ammonia. Ammonia can then be readily used as an ingredient that ends up, via the sophisticated metabolism that exists in all life, as amino acids, nucleic acids, and adenosine phosphates. When nitrogenase fixes nitrogen it consumes a prodigious amount of energy in the form of ATP. In particular for each atom of nitrogen it consumes the energy of 8 phosphate bonds:
+
+N2 + 8 H+ + 8 e− + 16 ATP → 2 NH3 + H2 + 16 ADP + 16 P
+
+Nitrogenase is extremely similar all organisms known to contain it. It thus probably only ever evolved once. Given its crucial function of supplying a limiting nutrient, despite its high energy cost it proved to be so useful that it spread to many phyla of archae and bacteria. Either it evolved very early in the history of life (before the “LCA”, the Last Common Ancestor of all known life) or it spread through horizontal gene transmission:
+
+Alternative origins and evolution of nitrogenase (click to enlarge) ( ref):
+
+The archae and bacteria that contain nitrogenase, and can thus fix nitrogen, are called diazotrophs. One of the earliest diazotrophs may have been a critter that, like this one, lived in high pressure hot water in an undersea vent. In today’s ocean, the most common diazotroph is the phytoplankton Trichodesmium. 
+
+Colonies of Trichodesmium:
+The biomass earth's oceans is probably limited by the population of such diazotrophs. Supplying the iron they use to make nitrogenase would increase the amount of nitrogen fixation and thus the biomass in the oceans. A larger ocean ecosystem would draw out more carbon dioxide from the atmosphere, and so is of great interest. This process in the ocean seems to have its limits, however: too much ocean biomass in a particular area can, when it decomposes, deplete oxygen from the ocean, suffocating animals. Oxygen replacement from the atmosphere appears to be too slow to prevent this effect when nitrogen concentrations are high enough, but nitrogen concentrations in almost all ocean areas are far lower than this and would remain lower even while drawing out substantial amounts of carbon dioxide. (Here is a nice Flash animation of the nitrogen cycle in the oceans).
+
+On land, certain plants, especially legumes, are symbiotic with certain diazotrophs. The bugs grow in root nodules in which the legume supplies them large amounts of sugar to power the energy-greedy nitrogenase. In turn, the diazotrophs supply their legume hosts with fixed nitrogen allowing the legumes to generate more protein more quickly than other plants: but at the expense of more photosynthesis needed to feed the energy-hungry bugs.
