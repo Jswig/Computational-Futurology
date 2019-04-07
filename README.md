@@ -1,4 +1,4 @@
-# Computational Futorology
+# Computational Futurology
 *Anders Poirel*
 
 Contains the open-ended projects I built in the Computational Futurology course taught by Peter Rothman in Fall 2018 at U.C. Santa Cruz, as part of the College Scholars Program.
